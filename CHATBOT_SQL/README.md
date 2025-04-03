@@ -26,7 +26,7 @@ This is a Streamlit application that enables users to interact with an SQLite or
 
 - langchain_groq
 
-🛠️ **Installation & Setup**
+🛠️ **Installation & Setup**:
 
 - 1️⃣ Clone the Repository
 
