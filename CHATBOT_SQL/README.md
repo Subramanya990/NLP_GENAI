@@ -1,8 +1,8 @@
-📌 LangChain: Chat with SQL Database
+📌 **LangChain: Chat with SQL Database**
 
 This is a Streamlit application that enables users to interact with an SQLite or MySQL database using natural language queries. It leverages LangChain, SQLDatabaseToolkit and ChatGroq (Llama3-8b-8192) for generating responses based on database queries.
 
-🚀 Features :
+🚀 **Features** :
 
 - 📂 Supports both SQLite and MySQL databases.
 
@@ -14,7 +14,7 @@ This is a Streamlit application that enables users to interact with an SQLite or
 
 - 🗃️ Caches database connections for efficiency.
 
-📝 Dependencies :
+📝 **Dependencies** :
 
 - streamlit
 
@@ -26,7 +26,7 @@ This is a Streamlit application that enables users to interact with an SQLite or
 
 - langchain_groq
 
-🛠️ Installation & Setup
+🛠️ **Installation & Setup**
 
 - 1️⃣ Clone the Repository
 
