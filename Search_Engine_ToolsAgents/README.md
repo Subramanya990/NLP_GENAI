@@ -12,3 +12,23 @@ This project is a Streamlit web application that enables users to interact with 
 
 - Modular design: The system is built using LangChain’s agent-based architecture for flexibility in adding more tools or capabilities.
 
+  📝 **Dependencies**:
+-streamlit: For the UI.
+
+-langchain: For integrating language models and tools.
+
+-langchain_groq: For integration with the Groq API.
+
+-wikipedia-api: For querying Wikipedia data.
+
+-duckduckgo_search: For querying DuckDuckGo search results.
+
+-python-dotenv: For loading environment variables.
+
+🛠️ **Installation & Setup**:
+
+1️⃣ Clone the Repository
+
+2️⃣ Install Dependencies --- pip install -r requirements.txt
+
+3️⃣ Run the Application --- streamlit run Search_engineTA.py
