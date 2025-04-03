@@ -14,10 +14,22 @@ This is a Streamlit application that enables users to interact with an SQLite or
 
 - 🗃️ Caches database connections for efficiency.
 
+📝 Dependencies :
+
+- streamlit
+
+- langchain
+
+- sqlite3
+
+- sqlalchemy
+
+- langchain_groq
+
 🛠️ Installation & Setup
 
 - 1️⃣ Clone the Repository
 
-- 2️⃣ Install Dependencies
+- 2️⃣ Install Dependencies --- pip install -r requirements.txt
 
 - 3️⃣ Run the Application --- streamlit run app.py
